@@ -2,6 +2,8 @@
 
 * Séance du mercredi 20 décembre
 
+    Mise en accord sur l'idée générale du projet
+
     Recherches:
 
         -Comment chauffer l'eau (machine à café, bouilloir, chauffe biberon) ? 
@@ -13,5 +15,5 @@
         -Comment verser le lait en poudre (cf. nourriture poisson) ? 
         Peut on doser automatiquement/à distance ? 
       
-      
+      ----------------------------------------------------------------------------------------------------------------------------
       
