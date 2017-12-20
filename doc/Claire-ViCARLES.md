@@ -9,7 +9,7 @@ Mise en place du fonctionnement global du projet
 
 Recherches:
 
-  **Comment chauffer de l'eau comme une machine à café: https://www.youtube.com/watch?v=_8Z0I7mxfMQ 
+  ** Comment chauffer de l'eau comme une machine à café: https://www.youtube.com/watch?v=_8Z0I7mxfMQ 
   
   Conclusion: on peut chauffer grâce au principe de bain marie avec une résistance immergée. Une fois la température atteinte, l'eau se verse dans le biberon.
   
