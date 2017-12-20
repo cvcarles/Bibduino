@@ -16,4 +16,4 @@ Recherches :
 
 - [précaution de préparation](https://www.ameli.fr/assure/sante/themes/alimentation-0-3-ans/preparer-biberon) (important pour un bébé)
 
-- étude du fonctionnement d'une machine à café pour l'adapter au chauffe-biberon : utilisation d'un (thermoplongeur)[https://www.boulanger.com/ref/51277?xtor=SEC-8827-GOO&xts=171153&origin=pla&kwd=&gclid=EAIaIQobChMIuKXGvd6Y2AIVpbftCh0Gegb-EAQYBSABEgInjfD_BwE&gclsrc=aw.ds] qui chauffe l'eau ?
+- étude du fonctionnement d'une machine à café pour l'adapter au chauffe-biberon : utilisation d'un [thermoplongeur](https://www.boulanger.com/ref/51277?xtor=SEC-8827-GOO&xts=171153&origin=pla&kwd=&gclid=EAIaIQobChMIuKXGvd6Y2AIVpbftCh0Gegb-EAQYBSABEgInjfD_BwE&gclsrc=aw.ds) qui chauffe l'eau ?
