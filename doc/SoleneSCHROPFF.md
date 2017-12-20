@@ -1,9 +1,9 @@
 Cahier de suivi du projet de Solène Schropff
 ====
 
-Trinôme avec Claire-Victoria CARLES et Emma SAUTEL
-
-Projet sur l'automatisation de la préparation des biberons (programmable et automatisé)
+> Trinôme avec Claire-Victoria CARLES et Emma SAUTEL
+>
+> Projet sur l'automatisation de la préparation des biberons (programmable et automatisé)
 
 
 Séance du 20 décembre
