@@ -13,6 +13,6 @@
      Le fermer avant (visser le bouchon ) ?
       
      -Comment verser le lait en poudre (cf. nourriture poisson) ? 
-      Peut on doser automatiquement/à distance ? 
-      --------------------------------------------------------------------------------------------------------------------
+      Peut on doser automatiquement/à distance ?   
+ -------------------------------------------------------------------------------------------------------------------
       
