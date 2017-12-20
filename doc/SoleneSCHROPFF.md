@@ -10,6 +10,8 @@ Projet sur l'automatisation de la préparation des biberons (programmable et aut
 
 Recherches :
 
-- distribution de nourriture pour poissons : <http://forum.arduino.cc/index.php?topic=377612.0>
+- prise en main du markdown : [1](https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/) [2](https://openclassrooms.com/courses/redigez-en-markdown)
 
-- précaution de préparation : <https://www.ameli.fr/assure/sante/themes/alimentation-0-3-ans/preparer-biberon>
+- [distribution de nourriture pour poissons](http://forum.arduino.cc/index.php?topic=377612.0)
+
+- [précaution de préparation](https://www.ameli.fr/assure/sante/themes/alimentation-0-3-ans/preparer-biberon)
