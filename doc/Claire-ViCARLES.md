@@ -1,6 +1,6 @@
 # Suivi de projet de Claire-Victoria CARLES
 
-  __Séance du mercredi 20 décembre__
+  ## Séance du mercredi 20 décembre
 ---------------------------------------
 
 
