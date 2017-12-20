@@ -1,6 +1,6 @@
 # Suivi de projet de Emma Sautel
 
-*Séance du mercredi 20 décembre
+* Séance du mercredi 20 décembre
 
 Recherches:
 
