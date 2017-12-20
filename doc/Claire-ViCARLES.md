@@ -1,7 +1,8 @@
 # Suivi de projet de Claire-Victoria CARLES
 
  * Séance du mercredi 20 décembre
-=====================================
+---------------------------------------
+----------------------------------------
 
 Mise en place du fonctionnement global du projet
 
