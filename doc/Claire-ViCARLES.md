@@ -24,7 +24,7 @@ Recherches:
   
   ## Séance du mercredi 12 Janvier 
   
-  La necessité d'utiliser une balance de manière à savoir si un biberon est placé sous la machine est ressortie. [matériel:]( https://fr.aliexpress.com/item/Elecrow-Weight-Sensor-Load-Cell-Kits-DIY-Electronic-Scales-Weight-for-Arduino-HX711-Amplifier-Low-Standby/32806983774.html?spm=a2g0w.search0302.3.2.613742f7S0hrpR&ws_ab_test=searchweb0_0,searchweb201602_0_10152_10151_10613_10615_10614_10059_10314_10534_10084_100031_10083_10184_10305_10304_10307_10604_10306_10341_10065_10142_10340_10068_10343_10342_10103_10344_10302,searchweb201603_0,ppcSwitch_0&algo_pvid=83425211-7640-4ccd-b8e1-683985dd24b6&algo_expid=83425211-7640-4ccd-b8e1-683985dd24b6-0)
+  La necessité d'utiliser une balance de manière à savoir si un biberon est placé sous la machine est ressortie. [balance]( https://fr.aliexpress.com/item/Elecrow-Weight-Sensor-Load-Cell-Kits-DIY-Electronic-Scales-Weight-for-Arduino-HX711-Amplifier-Low-Standby/32806983774.html?spm=a2g0w.search0302.3.2.613742f7S0hrpR&ws_ab_test=searchweb0_0,searchweb201602_0_10152_10151_10613_10615_10614_10059_10314_10534_10084_100031_10083_10184_10305_10304_10307_10604_10306_10341_10065_10142_10340_10068_10343_10342_10103_10344_10302,searchweb201603_0,ppcSwitch_0&algo_pvid=83425211-7640-4ccd-b8e1-683985dd24b6&algo_expid=83425211-7640-4ccd-b8e1-683985dd24b6-0)
     
       
   
