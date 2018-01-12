@@ -30,3 +30,5 @@ Séance du 12 janvier
 - création du diaporama de présentation ([modèle diapositive n°9](http://users.polytech.unice.fr/~ferrero/TPelec2/Arduino_projet.pdf))
 
 - élaboration du schéma du bibduino ([inspiration machine à café](https://i.ytimg.com/vi/bdasYQ78Zsw/maxresdefault.jpg))
+
+- étude des recommandations de préparation : peut aider pour l'automatisation des biberons selon l'âge ([guide préparation biberons](http://www.guidegrossesse.com/nourrir-bebe/nombre-de-biberons-et-quantite-de-lait.htm))
