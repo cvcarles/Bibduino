@@ -16,3 +16,6 @@
       Peut on doser automatiquement/à distance ?   
  -------------------------------------------------------------------------------------------------------------------
       
+*Séance du vendredi 12 janvier
+
+Recherche du matériel nécessaire.
