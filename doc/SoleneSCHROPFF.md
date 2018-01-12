@@ -22,3 +22,10 @@ Recherches :
 - étude d'un projet en ligne de [brassage de bière](http://forum.arduino.cc/index.php?topic=379020.0) : on pourrait s'inspirer de l'utilisation de la bibliothèque [OneWire](https://playground.arduino.cc/Learning/OneWire) qui permet de mesurer la température avec un [sensor de température 1-wire](https://www.adafruit.com/product/381) (seul capteur waterproof) ([utilisation](http://www.touteladomotique.com/index.php?option=com_content&id=296:2012011501&Itemid=13))
 
 - proposition d'une résistance chauffante afin de créer un bain marie qui va chauffer l'eau du biberon
+
+
+Séance du 12 janvier
+----
+
+- création du diaporama de présentation [modèle diapositive n°9](http://users.polytech.unice.fr/~ferrero/TPelec2/Arduino_projet.pdf)
+
