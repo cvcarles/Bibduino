@@ -32,4 +32,5 @@ Séance du 12 janvier
 - élaboration du schéma du bibduino ([inspiration machine à café](https://i.ytimg.com/vi/bdasYQ78Zsw/maxresdefault.jpg))
 
 - étude des recommandations de préparation : peut aider pour l'automatisation des biberons selon l'âge ([guide préparation biberons](http://www.guidegrossesse.com/nourrir-bebe/nombre-de-biberons-et-quantite-de-lait.htm)), ou alors le parent choisit lui-même selon le poids (ml d'eau, quantité de lait en poudre, etc.)
+
 - problématique des différents types de biberons : codage du touilleur en fonction de la contenance du biberon
