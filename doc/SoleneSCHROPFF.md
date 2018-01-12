@@ -27,5 +27,5 @@ Recherches :
 Séance du 12 janvier
 ----
 
-- création du diaporama de présentation [modèle diapositive n°9](http://users.polytech.unice.fr/~ferrero/TPelec2/Arduino_projet.pdf)
+- création du diaporama de présentation ([modèle diapositive n°9](http://users.polytech.unice.fr/~ferrero/TPelec2/Arduino_projet.pdf))
 
