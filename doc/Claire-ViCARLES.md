@@ -14,7 +14,7 @@ Recherches:
   Conclusion: on peut chauffer grâce au principe de bain marie avec une résistance immergée. Une fois la température atteinte, l'eau se verse dans le biberon.
   
   + Recherche de machine à biberon déjà faite: 
-  Préparateur de biberons Formula Pro baby brezza avec comme problème l'impossibilité de régler la température (37°C obligatoire) ni de un dosage entre 60 et 120 ml
+  Préparateur de biberons [Formula Pro baby brezza](https://www.youtube.com/watch?v=9HBh39_rbGg) avec comme problème l'impossibilité de régler la température (37°C obligatoire) ni de un dosage entre 60 et 120 ml
   
  + Babynes de Nestlé : problème est que les capsules pré-dosées sont faites uniquement avec du lait Nestlé (cher et ne correspondant pas forcement à tous les enfants)
   
