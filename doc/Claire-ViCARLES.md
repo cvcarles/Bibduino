@@ -29,6 +29,8 @@ Recherches:
     
 * Réalisation d'un schéma explicatif du projet afin de se repérer dans les tâches à accomlir
  
-* Réflexion sur les composants necessaires: un fouet, un moteur à pas pour le dosae de la poudre, la découpe d'une pièce ronde avec deux trous opposés à 12h et 6h et rien à 3h et 9h, une balance, un engrenage à crémaillère pour le fouet, une résistance pour chauffer l'eau.
+* Réflexion sur les composants necessaires: un fouet, un moteur à pas pour le dosae de la poudre, la découpe d'une pièce ronde avec deux trous opposés à 12h et 6h et rien à 3h et 9h, une balance, un engrenage à crémaillère pour le fouet(le monter et le faire tourner), une résistance pour chauffer l'eau.
+
+* On aura besoin du logiciel Librecad afin de dessiner les pièces à "imprimer" au laser
  
  ----------------------------------
