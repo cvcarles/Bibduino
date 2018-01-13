@@ -37,4 +37,6 @@ Recherches:
    ## Curiosité du samedi 13 Janvier 
    
    Et si on mettait l'eau après la poudre, peut-être que cela éviterait d'avoir à mélanger?!
+  
+  D'après ce papa, il semble être possible de mettre la poudre avant le lait [ici](https://www.je-suis-papa.com/test-bib-expresso-beaba/).
 
