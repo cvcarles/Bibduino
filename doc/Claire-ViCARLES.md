@@ -29,7 +29,7 @@ Recherches:
     
 * Réalisation d'un schéma explicatif du projet afin de se repérer dans les tâches à accomlir
  
-* Réflexion sur les composants necessaires: [un fouet](https://www.spi-discount.net/fr/ustensiles-cuisine/1512-emulsionneur-3700606462321.html), un moteur à pas pour le dosae de la poudre, la découpe d'une pièce ronde avec deux trous opposés à 12h et 6h et rien à 3h et 9h, une balance, un engrenage à crémaillère pour le fouet(le monter et le faire tourner), une résistance pour chauffer l'eau.
+* Réflexion sur les composants necessaires: [un fouet](https://www.spi-discount.net/fr/ustensiles-cuisine/1512-emulsionneur-3700606462321.html)(ou un [fouet spécial biberon sans Bisphénol A](https://www.roseoubleu.com/fr/melangeur-antigrumeaux-pour-biberon-2225-accessoires-biberon), un moteur à pas pour le dosae de la poudre, la découpe d'une pièce ronde avec deux trous opposés à 12h et 6h et rien à 3h et 9h, une balance, un engrenage à crémaillère pour le fouet(le monter et le faire tourner), une résistance pour chauffer l'eau.
 
 * On aura besoin du logiciel Librecad afin de dessiner les pièces à "imprimer" au laser
  
