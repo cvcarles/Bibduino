@@ -18,4 +18,11 @@
       
 *Séance du vendredi 12 janvier
 
-Recherche du matériel nécessaire.
+Recherche de la conception de la machine et notamment du matériel nécessaire (afin de passer une commande ).
+Quelques idées: 
+         - chauffer l'eau: une résistance 
+         - remuer: fouet + engrenage (monter et descendre)
+         - verser la poudre: pièce ronde avec des trous (comme pour le sel ) + logiciel Librecad + moteur pas à pas (position ouverte et fermée)
+         - accéder aux différent dispositifs (eau, poudre, fouet ): moteur
+         - sécurité: vérifier la présence d'un biberon avant de le preparer : balance 
+ ---------------------------------------------------------------------------------------------------------------------
