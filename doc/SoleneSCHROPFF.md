@@ -44,3 +44,5 @@ Séance du 19 janvier
 - prise en main du capteur OneWire ([installation bibliothèque sur Arduino](http://www.mon-club-elec.fr/pmwiki_reference_arduino/pmwiki.php?n=Main.LibrairieOneWire)) et essai d'un [premier code](http://bildr.org/2011/07/ds18b20-arduino/)
 
 - montage et rendu du premier code avec le capteur dans une bouteille d'eau ([x](https://www.zupimages.net/up/18/03/jbb4.png))
+
+- [autre code d'essai](https://github.com/PaulStoffregen/OneWire/blob/master/examples/DS18x20_Temperature/DS18x20_Temperature.pde) de la bibliothèque OneWire de Paul Stroffregen (on obtient des températures un peu plus réalistes)
