@@ -14,6 +14,7 @@
       
      -Comment verser le lait en poudre (cf. nourriture poisson) ? 
       Peut on doser automatiquement/à distance ?   
+      
  -------------------------------------------------------------------------------------------------------------------
       
 * Séance du vendredi 12 janvier
@@ -30,7 +31,8 @@ Quelques idées:
    -accéder aux différent dispositifs (eau, poudre, fouet ): moteur
    
    -sécurité,vérifier la présence d'un biberon avant de le preparer : balance 
- ---------------------------------------------------------------------------------------------------------------------
+   
+ -------------------------------------------------------------------------------------------------------------------
  
 * Séance du vendredi 19 janvier 
 
