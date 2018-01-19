@@ -51,10 +51,10 @@ Et si on mélangeait la poudre et l'eau chaude avant que le mélange ne tombe da
 
 Choses à faire:
 
-* tester les différents composants (balance, thermomètre, moteurs (engrenage poudre, peut être fouet), résistance)
+* tester les différents composants, code (balance, thermomètre, moteurs (engrenage poudre, peut être fouet), résistance)
 
 * touver comment faire monter / verser l'eau
 
 * doser le lait
 
-* créer les pièces/ acheter : contenant à eau, cache pour que ce bac puisse s'ouvrir,  
+* créer les pièces/ acheter : contenant à eau, cache pour que ce bac puisse s'ouvrir, contenant à lait en poudre, pièces qui dose/mélange rondes
