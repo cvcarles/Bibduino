@@ -58,3 +58,5 @@ Choses à faire:
 * doser le lait
 
 * créer les pièces/ acheter : contenant à eau, cache pour que ce bac puisse s'ouvrir, contenant à lait en poudre, pièces qui dose/mélange rondes
+
+* assembler le tout
