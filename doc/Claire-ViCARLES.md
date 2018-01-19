@@ -32,6 +32,8 @@ Recherches:
 * Réflexion sur les composants necessaires: [un fouet](https://www.spi-discount.net/fr/ustensiles-cuisine/1512-emulsionneur-3700606462321.html)(ou un [fouet spécial biberon sans Bisphénol A](https://www.roseoubleu.com/fr/melangeur-antigrumeaux-pour-biberon-2225-accessoires-biberon) ou [autre moins cher](http://www.lesmeresnature.com/nos-biberons/950product.html)), un moteur à pas pour le dosae de la poudre, la découpe d'une pièce ronde avec deux trous opposés à 12h et 6h et rien à 3h et 9h, une balance, un engrenage à crémaillère pour le fouet(le monter et le faire tourner), une résistance pour chauffer l'eau.
 
 * On aura besoin du logiciel Librecad afin de dessiner les pièces à "imprimer" au laser
+
+* contenance su bac à eau: 750 ml correspondant à 3 biberons de taille maximale de contenace 250 ml de manièreb à ne pas laisser l'eau trop longtemps dans le reservoir
  
  ----------------------------------
    ## Curiosité du samedi 13 Janvier 
@@ -46,3 +48,13 @@ Et si on mélangeait la poudre et l'eau chaude avant que le mélange ne tombe da
    ## Vendredi 19 Janvier 
 
 [schéma montage capteur température](http://www.pihomeserver.fr/2013/10/29/raspberry-pi-home-server-utiliser-sonde-temperature-etanche-ds18b20/)
+
+Choses à faire:
+
+* tester les différents composants (balance, thermomètre, moteurs (engrenage poudre, peut être fouet), résistance)
+
+* touver comment faire monter / verser l'eau
+
+* doser le lait
+
+* créer les pièces/ acheter : contenant à eau, cache pour que ce bac puisse s'ouvrir,  
