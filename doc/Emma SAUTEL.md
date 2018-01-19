@@ -32,5 +32,7 @@ Quelques idées:
    -sécurité,vérifier la présence d'un biberon avant de le preparer : balance 
  ---------------------------------------------------------------------------------------------------------------------
 * Séance du vendredi 19 janvier 
+
    -prise en main du capteur thermique (programme + montage ) 
+   
    -création du diaporama pour la présentation (planning, objectif, schéma....) 
