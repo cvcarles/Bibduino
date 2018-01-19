@@ -29,5 +29,5 @@ Quelques idées:
    
    -accéder aux différent dispositifs (eau, poudre, fouet ): moteur
    
-   -sécurité,vérifier la présence d'un biberon avant de le preparer : balance 
+  -sécurité,vérifier la présence d'un biberon avant de le preparer : balance 
  ---------------------------------------------------------------------------------------------------------------------
