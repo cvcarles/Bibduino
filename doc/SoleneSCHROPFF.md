@@ -46,3 +46,5 @@ Séance du 19 janvier
 - montage et rendu du premier code avec le capteur dans une bouteille d'eau ([x](https://www.zupimages.net/up/18/03/jbb4.png)) : on a utilisé une résistance de 10k en attendant d'en avoir une de 4.7k
 
 - [autre code d'essai](https://github.com/PaulStoffregen/OneWire/blob/master/examples/DS18x20_Temperature/DS18x20_Temperature.pde) de la bibliothèque OneWire de Paul Stroffregen (on obtient des températures un peu plus réalistes)
+
+- test de la résistance chauffante directement dans un générateur à 12V (comme une prise secteur) puis avec le modèle du montage du moteur à courant continu ([diapo 7](http://users.polytech.unice.fr/~ferrero/TPelec2/arduino4.pdf))
