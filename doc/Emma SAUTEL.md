@@ -16,7 +16,7 @@
       Peut on doser automatiquement/à distance ?   
  -------------------------------------------------------------------------------------------------------------------
       
-*Séance du vendredi 12 janvier
+* Séance du vendredi 12 janvier
 
 Recherche de la conception de la machine et notamment du matériel nécessaire (afin de passer une commande ).
 Quelques idées: 
