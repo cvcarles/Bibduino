@@ -36,3 +36,7 @@ Séance du 12 janvier
 - problématique des différents types de biberons : codage du touilleur en fonction de la contenance du biberon
 
 - ouverture et fermeture de la trappe à poudre avec un moteur pas à pas
+
+
+Séance du 19 janvier
+----
