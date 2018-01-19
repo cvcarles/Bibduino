@@ -40,3 +40,5 @@ Séance du 12 janvier
 
 Séance du 19 janvier
 ----
+
+- prise en main du capteur OneWire ([installation bibliothèque sur Arduino](http://www.mon-club-elec.fr/pmwiki_reference_arduino/pmwiki.php?n=Main.LibrairieOneWire)) et essai d'un [premier code](http://bildr.org/2011/07/ds18b20-arduino/)
