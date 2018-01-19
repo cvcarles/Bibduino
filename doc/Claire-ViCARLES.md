@@ -41,3 +41,8 @@ Recherches:
   D'après ce papa [ici](https://www.je-suis-papa.com/test-bib-expresso-beaba/) et [ici](https://lily2b.wordpress.com/2012/06/13/leau-ou-la-poudre/),il semble être possible de mettre la poudre avant le lait.
 
 Et si on mélangeait la poudre et l'eau chaude avant que le mélange ne tombe dans le biberon?
+
+----------------------------------
+   ## Vendredi 19 Janvier 
+
+[schéma montage capteur température](http://www.pihomeserver.fr/2013/10/29/raspberry-pi-home-server-utiliser-sonde-temperature-etanche-ds18b20/)
