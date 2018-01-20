@@ -49,7 +49,9 @@ Et si on mélangeait la poudre et l'eau chaude avant que le mélange ne tombe da
 
 [schéma montage capteur température](http://www.pihomeserver.fr/2013/10/29/raspberry-pi-home-server-utiliser-sonde-temperature-etanche-ds18b20/)
 
-résistance chauffante de 12 Ohm,pour 12 V, on a presque 1 Ampère; Transistor
+résistance chauffante de 12 Ohm,pour 12 V, on a presque 1 Ampère + Transistor
+
+Réalisation du diagramme de Grantt
 
 Choses à faire:
 
