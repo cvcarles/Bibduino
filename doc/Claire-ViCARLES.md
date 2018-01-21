@@ -63,4 +63,6 @@ Choses à faire:
 
 * créer les pièces/ acheter : contenant à eau, cache pour que ce bac puisse s'ouvrir, contenant à lait en poudre, pièces qui dose/mélange rondes
 
+* créer l'application android
+
 * assembler le tout
