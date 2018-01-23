@@ -39,3 +39,13 @@ Quelques idées:
    -prise en main du capteur thermique (programme + montage ) 
    
    -création du diaporama pour la présentation (planning, objectif, schéma....) 
+   
+   -------------------------------------------------------------------------------------------------------------------
+   
+* Séance du mardi 23 janvier 
+
+   -"petite" présentation du projet (problématique,motivations,objectif,utilisation du matériel....)
+   
+   -premières recherches sur l'application: on trouve plusieurs site web permettant de créer une application (sans coder, payant), mais aussi des applications telles que android studio et android inventor (code java, gratuit). Nous avons choisis d'utiliser android studio, qui un environnement de développement spécialisé dans le développement d'applications Android, afin de coder par nous même l'application. 
+  ---------------------------------------------------------------------------------------------------------------------- 
+  
