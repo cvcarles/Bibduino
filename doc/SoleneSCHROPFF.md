@@ -56,3 +56,5 @@ Séance du 23 janvier
 - présentation du projet (cf [Présentation Bibduino](https://github.com/cvcarles/Bibduino/blob/master/doc/Projet%20Bibduino.pdf))
 
 - lecture du [fonctionnement du module WiFi](https://les-electroniciens.com/videos/arduino-ep16-installation-du-module-wifi-esp8266)
+
+- [installation de Android Studio](http://www.obzilo.com/2015/02/installer-sdk-dandroid-mac-os-x-windows-adb-fastboot.html)
