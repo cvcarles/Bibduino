@@ -48,3 +48,9 @@ Séance du 19 janvier
 - [autre code d'essai](https://github.com/PaulStoffregen/OneWire/blob/master/examples/DS18x20_Temperature/DS18x20_Temperature.pde) de la bibliothèque OneWire de Paul Stroffregen (on obtient des températures un peu plus réalistes)
 
 - test de la résistance chauffante directement dans un générateur à 12V (comme une prise secteur) puis avec le modèle du montage du moteur à courant continu ([diapo 7](http://users.polytech.unice.fr/~ferrero/TPelec2/arduino4.pdf))
+
+
+Séance du 23 janvier
+----
+
+- présentation du projet (cf [Présentation Bibduino](https://github.com/cvcarles/Bibduino/blob/master/doc/Projet%20Bibduino.pdf))
