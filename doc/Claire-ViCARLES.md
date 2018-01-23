@@ -66,3 +66,8 @@ Choses à faire:
 * créer l'application android
 
 * assembler le tout
+
+----------------------------------
+   ## Mardi 23 Janvier 
+   
+   Présentation orale du projet
