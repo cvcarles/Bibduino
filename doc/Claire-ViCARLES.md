@@ -73,3 +73,5 @@ Choses à faire:
    Présentation orale du projet
 
   [étude de la pompe](http://stockage.univ-valenciennes.fr/EcoPEM/BoiteK/co/K1_P.html) et (https://www.youtube.com/watch?v=_uqUW86VlhQ)
+
+faire un réhausseur de bibi avec la balance: 
