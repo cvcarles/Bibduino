@@ -57,4 +57,4 @@ Séance du 23 janvier
 
 - lecture du [fonctionnement du module WiFi](https://les-electroniciens.com/videos/arduino-ep16-installation-du-module-wifi-esp8266)
 
-- [installation de Android Studio](http://www.obzilo.com/2015/02/installer-sdk-dandroid-mac-os-x-windows-adb-fastboot.html)
+- [installation de Android Studio](http://www.obzilo.com/2015/02/installer-sdk-dandroid-mac-os-x-windows-adb-fastboot.html) (plusieurs problèmes d'installation de SDK rencontrés, réseau wifi de l'école assez lent pour télécharger...)
