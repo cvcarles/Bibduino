@@ -72,4 +72,4 @@ Choses à faire:
    
    Présentation orale du projet
 
-  [étude de la pompe]http://stockage.univ-valenciennes.fr/EcoPEM/BoiteK/co/K1_P.html
+  [étude de la pompe](http://stockage.univ-valenciennes.fr/EcoPEM/BoiteK/co/K1_P.html)
