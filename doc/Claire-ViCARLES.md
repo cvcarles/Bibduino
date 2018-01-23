@@ -71,3 +71,5 @@ Choses à faire:
    ## Mardi 23 Janvier 
    
    Présentation orale du projet
+
+  étude de la pompe 
