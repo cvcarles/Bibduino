@@ -58,3 +58,9 @@ Séance du 23 janvier
 - lecture du [fonctionnement du module WiFi](http://blog.rexave.net/tutoriel-esp8266-esp07/)
 
 - [installation de Android Studio](http://www.obzilo.com/2015/02/installer-sdk-dandroid-mac-os-x-windows-adb-fastboot.html) (plusieurs problèmes d'installation de SDK rencontrés, réseau wifi de l'école assez lent pour télécharger...)
+
+
+Séance du 6 février
+----
+
+- lecture du cours [OpenClassrooms sur Android Studio](https://openclassrooms.com/courses/creez-des-applications-pour-android)
