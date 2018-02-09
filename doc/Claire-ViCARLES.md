@@ -75,3 +75,8 @@ Choses à faire:
   [étude de la pompe](http://stockage.univ-valenciennes.fr/EcoPEM/BoiteK/co/K1_P.html) et (https://www.youtube.com/watch?v=_uqUW86VlhQ)
 
 faire un réhausseur de bibi avec la balance: 
+
+----------------------------------
+   ## Mardi 6 Janvier 
+   
+   essai de programmer le module wifi : echec à réessayer à la maison
