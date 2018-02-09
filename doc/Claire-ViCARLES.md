@@ -84,3 +84,7 @@ faire un réhausseur de bibi avec la balance:
    TX arduino = PB3 pin 11
    RX arduino = PB2 pin 10
    [doc sur le module wifi](https://www.cnx-software.com/2015/04/18/nodemcu-is-both-a-breadboard-friendly-esp8266-wi-fi-board-and-a-lua-based-firmware/)
+
+https://www.youtube.com/watch?v=MN9-_hOpf_c
+
+[code](https://github.com/viveksharanappa/codefromhereandthere/blob/master/BLINK_CONTROL_WEB.ino)
