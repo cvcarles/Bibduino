@@ -77,7 +77,7 @@ Choses à faire:
 faire un réhausseur de bibi avec la balance: 
 
 ----------------------------------
-   ## Mardi 6 Janvier 
+   ## Mardi 6 Février 
    
    essai de programmer le module wifi : echec à réessayer à la maison
    
@@ -87,10 +87,13 @@ faire un réhausseur de bibi avec la balance:
 
 https://www.youtube.com/watch?v=MN9-_hOpf_c
 
-https://www.cnx-software.com/wp-content/uploads/2015/04/NodeMCU_Pinout.png
+vendredi 9 février: succès: on parvient à allumer et éteindre une LED depuis un navigateur web
+[image des pins du wifi](https://www.cnx-software.com/wp-content/uploads/2015/04/NodeMCU_Pinout.png)
 
 http://les-electroniciens.com/videos/arduino-ep16-installation-du-module-wifi-esp8266
 
 [code](https://github.com/viveksharanappa/codefromhereandthere/blob/master/BLINK_CONTROL_WEB.ino)
 
 [le génial](http://www.instructables.com/id/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/)
+
+
