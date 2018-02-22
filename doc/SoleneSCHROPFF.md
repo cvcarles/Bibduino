@@ -60,7 +60,7 @@ Séance du 23 janvier
 - [installation de Android Studio](http://www.obzilo.com/2015/02/installer-sdk-dandroid-mac-os-x-windows-adb-fastboot.html) (plusieurs problèmes d'installation de SDK rencontrés, réseau wifi de l'école assez lent pour télécharger...)
 
 
-Séance du 6 février
+Séances du 6 et 22 février
 ----
 
-- lecture du cours [OpenClassrooms sur Android Studio](https://openclassrooms.com/courses/creez-des-applications-pour-android)
+- lecture du cours [OpenClassrooms sur Android Studio](https://openclassrooms.com/courses/creez-des-applications-pour-android) et 1ers tests avec Android Studio
