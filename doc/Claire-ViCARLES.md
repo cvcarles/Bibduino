@@ -102,6 +102,6 @@ http://les-electroniciens.com/videos/arduino-ep16-installation-du-module-wifi-es
 
 programmation moteur pas à pas:
 
-+ + -> 5V                 PD2 -> IN1           PD4 -> IN3
-- - ->GND                 PD3 -> IN2           PD5 -> IN4
+ '+ -> 5V                 PD2 -> IN1           PD4 -> IN3
+' - ->GND                 PD3 -> IN2           PD5 -> IN4
 
