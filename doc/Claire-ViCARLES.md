@@ -97,3 +97,11 @@ http://les-electroniciens.com/videos/arduino-ep16-installation-du-module-wifi-es
 [le génial](http://www.instructables.com/id/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/)
 
 
+----------------------------------
+   ## Jeudi 22 Février 
+
+programmation moteur pas à pas:
+
++ -> 5V                 PD2 -> IN1           PD4 -> IN3
+- ->GND                 PD3 -> IN2           PD5 -> IN4
+
