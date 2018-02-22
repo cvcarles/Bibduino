@@ -106,3 +106,4 @@ programmation moteur pas à pas:
  
  /- ->GND                 PD3 -> IN2           PD5 -> IN4
 
+[aide youtube](https://www.youtube.com/watch?v=3xi1yVRDFLE) 
