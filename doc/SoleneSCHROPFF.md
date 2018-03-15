@@ -64,3 +64,13 @@ Séances du 6 et 22 février
 ----
 
 - lecture du cours [OpenClassrooms sur Android Studio](https://openclassrooms.com/courses/creez-des-applications-pour-android) et 1ers tests avec Android Studio
+
+
+Séance du 15 mars 2018
+----
+
+- utilisation de [App Inventor](http://ai2.appinventor.mit.edu/) (après avoir compris qu'apprendre à coder depuis 0 une application pouvait se révéler très chronophage)
+
+- première contrainte : existe-t-il une possibilité de connectivité wi-fi avec App Inventor ? [x](https://www.youtube.com/watch?v=ZH7ufemP8e0)
+
+- mise en forme de l'application : possibilité de choisir le poids pour un biberon "automatisé" [x](https://www.notrefamille.com/forum/le-coin-des-bebes-0-3-ans/diversification-alimentaire/calcul-quantite-lait-biberon-selon-poids-du-bebe-t260794.html) avec un code Arduino qui utiliserait une fonction du poids OU choisir soi-même le dosage en ml du biberon [x](https://www.babycenter.fr/a1500097/quel-dosage-de-lait-en-poudre-pour-le-biberon-de-mon-b%C3%A9b%C3%A9-)
