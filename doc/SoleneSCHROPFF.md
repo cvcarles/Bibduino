@@ -82,3 +82,5 @@ Séance du 27 mars 2018
 ----
 
 - aperçu de l'application grâce à l'émulateur [x](https://zupimages.net/up/18/13/edq9.png)
+
+- installation de la [carte wifi ESP9266](http://www.instructables.com/id/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/)
