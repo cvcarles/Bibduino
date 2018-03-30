@@ -88,6 +88,8 @@ faire un réhausseur de bibi avec la balance:
 https://www.youtube.com/watch?v=MN9-_hOpf_c
 
 vendredi 9 février: succès: on parvient à allumer et éteindre une LED depuis un navigateur web
+
+dans gestionnaire de carte: utiliser NodeMCU 0.9 (ESP 12 Module)
 [image des pins du wifi](https://www.cnx-software.com/wp-content/uploads/2015/04/NodeMCU_Pinout.png)
 
 http://les-electroniciens.com/videos/arduino-ep16-installation-du-module-wifi-esp8266
@@ -118,4 +120,4 @@ programmation de la balance: enfin un succès après de nombreux échecs
 
 essai de l'utilisation de la nouvelle pompe: échec, la ULN2803A a claqué en suivant ce schéma: 
 
-[essayer] (https://www.google.fr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjF7KqujZTaAhVMwBQKHZiNA7IQjRx6BAgAEAU&url=http%3A%2F%2Fwww.learnerswings.com%2F2014%2F04%2Fcontrol-dc-motor-using-arduino-and.html&psig=AOvVaw3U6EXUAjIZLKw1Eo9xpZSE&ust=1522501262439695) au prochain cours
+[essayer](https://www.google.fr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjF7KqujZTaAhVMwBQKHZiNA7IQjRx6BAgAEAU&url=http%3A%2F%2Fwww.learnerswings.com%2F2014%2F04%2Fcontrol-dc-motor-using-arduino-and.html&psig=AOvVaw3U6EXUAjIZLKw1Eo9xpZSE&ust=1522501262439695) au prochain cours
