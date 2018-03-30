@@ -89,7 +89,7 @@ https://www.youtube.com/watch?v=MN9-_hOpf_c
 
 vendredi 9 février: succès: on parvient à allumer et éteindre une LED depuis un navigateur web
 
-dans gestionnaire de carte: utiliser NodeMCU 0.9 (ESP 12 Module)
+dans gestionnaire de carte: utiliser NodeMCU 0.9 (ESP 12 Module)  vec comme baud: 115200
 [image des pins du wifi](https://www.cnx-software.com/wp-content/uploads/2015/04/NodeMCU_Pinout.png)
 
 http://les-electroniciens.com/videos/arduino-ep16-installation-du-module-wifi-esp8266
