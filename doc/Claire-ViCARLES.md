@@ -112,3 +112,10 @@ programmation moteur pas à pas:
  ## Jeudi 15 Mars 
 
 programmation de la balance: enfin un succès après de nombreux échecs
+
+----------------------------------
+ ## Mardi 27 Mars 
+
+essai de l'utilisation de la nouvelle pompe: échec, la ULN2803A a claqué en suivant ce schéma: 
+
+[essayer] (https://www.google.fr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjF7KqujZTaAhVMwBQKHZiNA7IQjRx6BAgAEAU&url=http%3A%2F%2Fwww.learnerswings.com%2F2014%2F04%2Fcontrol-dc-motor-using-arduino-and.html&psig=AOvVaw3U6EXUAjIZLKw1Eo9xpZSE&ust=1522501262439695) au prochain cours
