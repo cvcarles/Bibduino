@@ -84,3 +84,11 @@ Séance du 27 mars 2018
 - aperçu de l'application grâce à l'émulateur [x](https://zupimages.net/up/18/13/edq9.png)
 
 - installation de la [carte wifi ESP9266](http://www.instructables.com/id/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/)
+
+
+Séance du 4 avril 2018
+----
+
+- présentation de mi-parcours ([ppt](https://github.com/cvcarles/Bibduino/blob/master/doc/Bibduino(mi-parcours).pdf))
+
+- continuation de l'application, découverte des blocks sur AppInventor (d'après [cette](https://www.youtube.com/watch?v=ZH7ufemP8e0) vidéo magique), possibilité de connecter le clickage du bouton de lancement de l'application à l'adresse IP de l'Arduino
