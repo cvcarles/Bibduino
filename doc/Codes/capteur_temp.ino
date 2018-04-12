@@ -101,8 +101,3 @@ void loop(void) {
   Serial.print(celsius);
   Serial.print(" Celsius, ");
 }
-
-
-
-
-![Montage](https://www.zupimages.net/up/18/03/jbb4.png)
