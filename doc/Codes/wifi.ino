@@ -1,72 +1,100 @@
-#include <SoftwareSerial.h>
-
-SoftwareSerial ESP8266(10, 11);
-
-String reseau = "Entrez le nom de votre Box ou point d'accès Wifi"; // Garder les guillements
-String mdp    = "Entrez le nom du mot de passe de votre Box ou point d'accès Wifi"; // Garder les guillements
-
+#include <ESP8266WiFi.h>
+ 
+const char* ssid = "Livebox-3e0c";
+const char* password = "3356931666F098A39845403845";
+ 
+int ledPin = 13; // GPIO13
+WiFiServer server(80);
+ 
 void setup() {
-  Serial.begin(9600);
-  ESP8266.begin(9600);  
-  initESP8266();
-}
-
-
-void loop() {
-   while(ESP8266.available()) {    
-     Serial.println(ESP8266.readString());
-   }   
-}
-
-/* Fonction qui initialise l'ESP8266 */
-void initESP8266() {  
-  Serial.println("**********************************************************");  
-  Serial.println("**************** INITIALISATION **************************");
-  Serial.println("**********************************************************");  
-  
-  envoieAuESP8266("AT+RST");
-  recoitDuESP8266(2000);
-  Serial.println("**********************************************************");
-  
-  envoieAuESP8266("AT+CWMODE=3");
-  recoitDuESP8266(5000);
-  Serial.println("**********************************************************");
-  
-  envoieAuESP8266("AT+CWJAP=\""+ reseau + "\",\"" + mdp +"\"");
-  recoitDuESP8266(10000);
-  Serial.println("**********************************************************");
-  
-  envoieAuESP8266("AT+CIFSR");
-  recoitDuESP8266(1000);
-  Serial.println("**********************************************************");
-  
-  envoieAuESP8266("AT+CIPMUX=1");   
-  recoitDuESP8266(1000);
-  Serial.println("**********************************************************");
-  
-  envoieAuESP8266("AT+CIPSERVER=1,80");
-  recoitDuESP8266(1000);
-  Serial.println("**********************************************************");
-  Serial.println("***************** FIN INITIALISATION *********************");
-  Serial.println("**********************************************************");
-}
-
-
-/* Fonction qui envoie une commande à l'ESP8266 */
-void envoieAuESP8266(String commande) {  
-  ESP8266.println(commande);
-}
-
-/* Fonction qui lit et affiche les messages envoyés par l'ESP8266 */
-
-void recoitDuESP8266(const int timeout) {
-  String reponse = "";
-  long int time = millis();
-  while( (time+timeout) > millis()) {
-    while(ESP8266.available()) {
-      char c = ESP8266.read();
-      reponse+=c;
-    }
+  Serial.begin(115200);
+  delay(10);
+ 
+  pinMode(ledPin, OUTPUT);
+  digitalWrite(ledPin, LOW);
+ 
+  // Connect to WiFi network
+  Serial.println();
+  Serial.println();
+  Serial.print("Connecting to ");
+  Serial.println(ssid);
+ 
+  WiFi.begin(ssid, password);
+ 
+  while (WiFi.status() != WL_CONNECTED) {
+    delay(500);
+    Serial.print(".");
   }
-  Serial.print(reponse);   
+  Serial.println("");
+  Serial.println("WiFi connected");
+ 
+  // Start the server
+  server.begin();
+  Serial.println("Server started");
+ 
+  // Print the IP address
+  Serial.print("Use this URL to connect: ");
+  Serial.print("http://");
+  Serial.print(WiFi.localIP());
+  Serial.println("/");
+ 
 }
+ 
+void loop() {
+  // Check if a client has connected
+  WiFiClient client = server.available();
+  if (!client) {
+    return;
+  }
+ 
+  // Wait until the client sends some data
+  Serial.println("new client");
+  while(!client.available()){
+    delay(1);
+  }
+ 
+  // Read the first line of the request
+  String request = client.readStringUntil('\r');
+  Serial.println(request);
+  client.flush();
+ 
+  // Match the request
+ 
+  int value = LOW;
+  if (request.indexOf("/LED=ON") != -1)  {
+    digitalWrite(ledPin, HIGH);
+    value = HIGH;
+  }
+  if (request.indexOf("/LED=OFF") != -1)  {
+    digitalWrite(ledPin, LOW);
+    value = LOW;
+  }
+ 
+// Set ledPin according to the request
+//digitalWrite(ledPin, value);
+ 
+  // Return the response
+  client.println("HTTP/1.1 200 OK");
+  client.println("Content-Type: text/html");
+  client.println(""); //  do not forget this one
+  client.println("<!DOCTYPE HTML>");
+  client.println("<html>");
+ 
+  client.print("Led pin is now.....: ");
+ 
+  if(value == HIGH) {
+    client.print("On");
+  } else {
+    client.print("Off");
+  }
+  client.println("<br><br>");
+  client.println("<a href=\"/LED=ON\"\"><button>Turn On </button></a>");
+  client.println("<a href=\"/LED=OFF\"\"><button>Turn Off </button></a><br />");  
+  client.println("</html>");
+ 
+  delay(1);
+  Serial.println("Client disonnected");
+  Serial.println("");
+ 
+}
+ 
