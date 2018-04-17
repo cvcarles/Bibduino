@@ -98,3 +98,9 @@ BONUS - 12/13 avril 2018
 ----
 
 - conception et impression de la pièce au fablab
+
+
+Séance du 17 avril 2018
+----
+
+- lecture d'un post sur la réception de données d'AppInventor par l'Arduino ([x](https://openclassrooms.com/forum/sujet/reception-de-donnees-arduino-app-inventor-2))
