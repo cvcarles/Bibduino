@@ -106,3 +106,5 @@ Séance du 17 avril 2018
 - lecture d'un post sur la réception de données d'AppInventor par l'Arduino ([x](https://openclassrooms.com/forum/sujet/reception-de-donnees-arduino-app-inventor-2))
 
 - [site bien utile](http://appinventor.mit.edu/explore/content/basic.html) pour concevoir sur AppInventor
+
+- [différentes extensions](https://puravidaapps.com/extensions.php) (dont wifi) pour AppInventor
