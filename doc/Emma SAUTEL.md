@@ -56,14 +56,14 @@ Quelques idées:
       -Création du diaporama pour la présentation de mi-parcourt
       -Code+branchement balance 
   ----------------------------------------------------------------------------------------------------------------------
-  *Séance du mercredi 4 avril
+  * Séance du mercredi 4 avril
       -Présentation de mi-parcourt
   -----------------------------------------------------------------------------------------------------------------------
-  *Jeudi 12 avril
+  * Jeudi 12 avril
       -"Brain-storming" sur la forme de la machine
       -Réalisation d'une pièce (inventor + imprimante 3D)
       -Démontage de la machine achetée
   ------------------------------------------------------------------------------------------------------------------------
-  *Séance du mardi 17 avril
+  * Séance du mardi 17 avril
       Mise en forme de la machine, mise au point sur les adaptations nécessaires (troues, vises......)
   ------------------------------------------------------------------------------------------------------------------------
