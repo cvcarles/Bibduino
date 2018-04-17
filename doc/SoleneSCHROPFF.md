@@ -108,3 +108,5 @@ Séance du 17 avril 2018
 - [site bien utile](http://appinventor.mit.edu/explore/content/basic.html) pour concevoir sur AppInventor
 
 - [différentes extensions](https://puravidaapps.com/extensions.php) (dont wifi) pour AppInventor
+
+- continuation de l'application, mise en place des différents blocks...
