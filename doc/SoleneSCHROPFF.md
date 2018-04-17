@@ -92,3 +92,9 @@ Séance du 4 avril 2018
 - présentation de mi-parcours ([ppt](https://github.com/cvcarles/Bibduino/blob/master/doc/Bibduino(mi-parcours).pdf))
 
 - continuation de l'application, découverte des blocks sur AppInventor (d'après [cette](https://www.youtube.com/watch?v=ZH7ufemP8e0) vidéo magique), possibilité de connecter le clickage du bouton de lancement de l'application à l'adresse IP de l'Arduino
+
+
+BONUS - 12/13 avril 2018
+----
+
+- conception et impression de la pièce au fablab
