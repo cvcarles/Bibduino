@@ -152,5 +152,13 @@ convention pour l'ordre de rotation du moteur: poudre, eau, arrêt sur le trou b
 
 
 algorithme général:
-  *commande par wifi
+  * commande par wifi
+  * moteur pap tourne d'1 trou
+  * poudre qui coule
+  * balance dit stop en avance pour prévoir une marge
+  * moteur pap tourne d'1 trou
+  * résistance en marche
+  * pompe pulse l'eau d'une quantité à définir
+  * fin
+  
   
