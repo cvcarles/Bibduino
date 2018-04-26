@@ -121,3 +121,25 @@ programmation de la balance: enfin un succès après de nombreux échecs
 essai de l'utilisation de la nouvelle pompe: échec, la ULN2803A a claqué en suivant ce schéma: 
 
 [essayer](https://www.google.fr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjF7KqujZTaAhVMwBQKHZiNA7IQjRx6BAgAEAU&url=http%3A%2F%2Fwww.learnerswings.com%2F2014%2F04%2Fcontrol-dc-motor-using-arduino-and.html&psig=AOvVaw3U6EXUAjIZLKw1Eo9xpZSE&ust=1522501262439695) au prochain cours
+
+----------------------------------
+ ## Mercredi 4 avril
+  Présentation de mi-parcours
+  Succès du branchement de la pompe (directement sur le générateur)
+  
+  ----------------------------------
+ ## Jeudi 12 avril
+Réflexions sur ls forme de la machine
+démontage de la machine achetée de manière à comprendre son fonctionnement et à garder seulement les pièces necessaires à notre projet. Par la suite, on a réalisé que le socle devait être plat (et non creusé comme celui que l'on a actuellement). J'ai donc réalisé le socle en 3D sur inventor pour pouvoir l'imprimer
+
+ ----------------------------------
+ ## Vendredi 13 avril
+Impression du socle au fablab. Durée d'impression: 14h
+
+----------------------------------
+ ## Mardi 17 avril
+On continue de chercher la forme idéale de la machine (par où faire passer les tuyaux...)
+
+----------------------------------
+ ## Vendredi 20 avril
+Après midi au fablab pour perser/découper notre machine originale. Découpage laser d'une pièce ronde pour adapter la "vis" au moteur. Adaptation du socle imprimé au receptacle supérieur.
