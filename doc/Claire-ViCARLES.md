@@ -146,4 +146,6 @@ Après midi au fablab pour perser/découper notre machine originale. Découpage 
 
 ----------------------------------
  ## Jeudi 26 avril
-pourquoi le moteur pas à pas s'obstine à tourner dans un seul sens ?!
+pourquoi le moteur pas à pas s'obstine à tourner dans un seul sens ?! Réponse: les pattes devaient être branchées en 2,4,3,5 et pas dans l'ordre croissant.
+
+convention pour l'ordre de rotation du moteur: poudre, eau, rien pendant 4 trous
