@@ -143,3 +143,7 @@ On continue de chercher la forme idéale de la machine (par où faire passer les
 ----------------------------------
  ## Vendredi 20 avril
 Après midi au fablab pour perser/découper notre machine originale. Découpage laser d'une pièce ronde pour adapter la "vis" au moteur. Adaptation du socle imprimé au receptacle supérieur.
+
+----------------------------------
+ ## Jeudi 26 avril
+pourquoi le moteur pas à pas s'obstine à tourner dans un seul sens ?!
