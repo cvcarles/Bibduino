@@ -156,8 +156,8 @@ algorithme général:
   * moteur pap tourne d'1 trou
   * poudre qui coule
   * balance dit stop en avance pour prévoir une marge
-  * moteur pap tourne d'1 trou
   * résistance en marche
+  * moteur pap tourne d'1 trou
   * pompe pulse l'eau d'une quantité à définir
   * fin
   
