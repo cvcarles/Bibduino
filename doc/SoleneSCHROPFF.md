@@ -117,4 +117,4 @@ Séance du 2 mai 2018
 
 - mise en place du programme Arduino
 
-- changement de résistance chauffante qui peut être contrôlée [ULN2803](https://wiki.mchobby.be/index.php?title=ULN2803-Sch%C3%A9ma)
+- ajout d'une puce [ULN2803](https://wiki.mchobby.be/index.php?title=ULN2803-Sch%C3%A9ma) pour pouvoir contrôler la résistance chauffante
