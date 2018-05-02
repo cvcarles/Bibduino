@@ -110,3 +110,11 @@ Séance du 17 avril 2018
 - [différentes extensions](https://puravidaapps.com/extensions.php) (dont wifi) pour AppInventor
 
 - continuation de l'application, mise en place des différents blocks...
+
+
+Séance du 2 mai 2018
+----
+
+- mise en place du programme Arduino
+
+- changement de résistance chauffante qui peut être contrôlée [ULN2803](https://wiki.mchobby.be/index.php?title=ULN2803-Sch%C3%A9ma)
