@@ -80,3 +80,6 @@ Quelques idées:
       Mise en forme de la machine, mise au point sur les adaptations nécessaires (troues, vises......)
       
   ------------------------------------------------------------------------------------------------------------------------
+  * Séance du mercredi 2 mai
+      Prise en main du site AppInventor, modification de l'application préalablement créée par Solène. 
+  -------------------------------------------------------------------------------------------------------------------------
