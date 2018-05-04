@@ -161,4 +161,7 @@ algorithme général:
   * pompe pulse l'eau d'une quantité à définir
   * fin
   
-  
+  ----------------------------------
+ ## Mercredi 2 mai
+ 
+ changement de rôle, je reprends l'application depuis le début. J'ai réussi à lié l'application au module wifi: la led peut s'allumer et s'éteindre via l'application
