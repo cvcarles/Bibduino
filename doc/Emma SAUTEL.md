@@ -80,7 +80,21 @@ Quelques idées:
       Mise en forme de la machine, mise au point sur les adaptations nécessaires (troues, vises......)
       
   ------------------------------------------------------------------------------------------------------------------------
+  
+  * Vendredi 2O avril
+  
+      Fablab avec Claire-Victoria afin de d'apporter les modifiaction sur la machine imaginées lors de la séance du mardi précédent.
+      
+  ------------------------------------------------------------------------------------------------------------------------
+  
   * Séance du mercredi 2 mai
   
       Prise en main du site AppInventor, modification de l'application préalablement créée par Solène. 
+      
   -------------------------------------------------------------------------------------------------------------------------
+  
+  * Vendredi 4 mai
+  
+      Abandon de la premièere application. Réalisation de l'esthétique de la nouvelle application créée par Claire-Victoria.
+   
+   ------------------------------------------------------------------------------------------------------------------------
