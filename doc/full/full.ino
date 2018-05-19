@@ -21,38 +21,41 @@ Stepper moteur(NombrePas, pas_1, pas_2, pas_3, pas_4);
 int temps_ouverture = 5000; //(ms) calcul à trouver en fonction de la quantité de poudre
 
 /** REÇUS DE L'APPLI **/
-int eau = 240; // en g
 int quantite = mySerial.read(); //quantite de poudre (g)
+int eau = quantite*6; // en ml
 
-const int pin_pompe = 6 ;
-const int pin_resis = 7;
-int temps_chauffe = 30; // sur une base de 30s
+
+const int pin_pompe = 7 ;
+const int pin_resis = 8;
 const int poids_bibi=scale.getGram();
 
 
 void setup() {
   Serial.begin(9600);
-    mySerial.begin(9600);
+  mySerial.begin(9600);
 
-    moteur.setSpeed(50);  // On défini la vitesse du moteur pas à pas
+  moteur.setSpeed(50);  // On défini la vitesse du moteur pas à pas
   pinMode(pin_pompe,OUTPUT);
   pinMode(pin_resis,OUTPUT);
   pinMode(pas_1, OUTPUT);
   pinMode(pas_2, OUTPUT);
   pinMode(pas_3, OUTPUT);
   pinMode(pas_4, OUTPUT);
-  pinMode(6, OUTPUT);       //pompe
+
 
 }
   
 void loop() {
+                                             Serial.println("poids balance");
+                                             Serial.println(scale.getGram());
+                                             Serial.println("quantité désirée");
                                              Serial.println(quantite);
 
-  if (scale.getGram() > 50){ //poids min biberon 
+  if (scale.getGram() > 25){ //poids min biberon 
 int    poids_bibi=scale.getGram();
 
     if (quantite!=0) {
-      allume(7);          // allumage de la résistance
+      allume(pin_resis);          // allumage de la résistance
  fonctionnement_pap(1); 
 
       while(scale.getGram()<poids_bibi+quantite){
@@ -69,9 +72,9 @@ int    poids_bibi=scale.getGram();
                  Serial.println(  scale.getGram());
 
         Serial.println("Versement de l'eau en cours");
-        allume(6);
+        allume(pin_pompe);
 
-        delay(100);}
+        }
     eteint(6);    //eteint pompe
     eteint(7);    //eteint resistance
     Serial.println("bibi terminé");
@@ -109,8 +112,8 @@ void moteur_pap() { //pour la poudre
 
 
 
-void allume(int pin_pomp) {     
-  digitalWrite(pin_pomp,HIGH);
+void allume(int pin_comp) {     
+  digitalWrite(pin_comp,HIGH);
 }
 
 void eteint(int pin_comp) {
