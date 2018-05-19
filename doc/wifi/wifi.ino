@@ -4,7 +4,6 @@
 const char* ssid = "Livebox-3e0c";//"AndroidAP";//"OnePlus 5 4241";//"Livebox-385a";//"Livebox-3e0c";
 const char* password ="3356931666F098A39845403845";//"cvcvcvcv"; //"solenesolene";//"14A3447FF291DACACD95F24E94"; //"3356931666F098A39845403845";
  
-int ledPin = 13; // GPIO13
 WiFiServer server(80);
 SoftwareSerial mySerial(1,3);  //RX TX
  
@@ -15,7 +14,6 @@ void setup() {
   delay(10);
  
   pinMode(13, OUTPUT);
-  digitalWrite(ledPin, LOW);
  
   // Connect to WiFi network
   Serial.println();
@@ -62,15 +60,19 @@ void loop() {
   Serial.println(request);
   client.flush();
 
-//int eau1=eau.toInt()+1;
-
-//Serial.println("eau1:"+eau1);
 
 String poudre1="";
-poudre1=String(request.substring(5,7));
-mySerial.print(request.substring(5,7));
-
+poudre1=request.substring(5,7);
 int poudre=poudre1.toInt();
+
+if (poudre>1000){
+  int temp=poudre/10;
+  int temp2=temp+250;
+  poudre=temp2/30;
+}
+      
+mySerial.print(poudre);
+
    
 int eau=poudre*6;
 
@@ -81,6 +83,11 @@ int eau=poudre*6;
   client.println(""); //  do not forget this one
   client.println("<!DOCTYPE HTML>");
   client.println("<html>");
+  client.println("<body>");
+  client.println("<style>");
+  client.println("body {background-color: rgb(246,241,199)} </style>");
+
+
  
   client.print("<h2>Préparation du bibi suivant:</h2><br>");
   client.print("<strong>Quantité de lait en poudre: ");
@@ -93,7 +100,7 @@ int eau=poudre*6;
 
   client.println("<br><br>");
    
-  client.println("</html>");
+  client.println("</body></html>");
  
   delay(1);
   Serial.println("Client disonnected");
