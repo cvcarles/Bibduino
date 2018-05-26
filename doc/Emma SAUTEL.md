@@ -51,21 +51,21 @@ Quelques idées:
    
    -prise en main du récepteur Wifi
    
-  ---------------------------------------------------------------------------------------------------------------------- 
-  * Séance du mardi 27 mars
+----------------------------------------------------------------------------------------------------------------------- 
+ * Séance du mardi 27 mars
   
       -Création du diaporama pour la présentation de mi-parcourt
       
       -Code+branchement balance 
-  ----------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
   
-  * Séance du mercredi 4 avril
+ * Séance du mercredi 4 avril
   
       -Présentation de mi-parcourt
       
-  -----------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
   
-  * Jeudi 12 avril
+ * Jeudi 12 avril
   
       -"Brain-storming" sur la forme de la machine
       
@@ -73,34 +73,34 @@ Quelques idées:
       
       -Démontage de la machine achetée
       
-  ------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
   
-  * Séance du mardi 17 avril
+* Séance du mardi 17 avril
   
-      Mise en forme de la machine, mise au point sur les adaptations nécessaires (troues, vises......)
+     Mise en forme de la machine, mise au point sur les adaptations nécessaires (troues, vises......)
       
-  ------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
   
-  * Vendredi 2O avril
+* Vendredi 2O avril
   
-      Fablab avec Claire-Victoria afin de d'apporter les modification sur la machine imaginées lors de la séance du mardi précédent.
+     Fablab avec Claire-Victoria afin de d'apporter les modification sur la machine imaginées lors de la séance du mardi précédent.
       
---------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
   
- * Séance du mercredi 2 mai
+* Séance du mercredi 2 mai
   
-      Prise en main du site AppInventor, modification de l'application préalablement créée par Solène. 
+     Prise en main du site AppInventor, modification de l'application préalablement créée par Solène. 
       
 ---------------------------------------------------------------------------------------------------------------------------
   
-  * Vendredi 4 mai
+* Vendredi 4 mai
   
-      Abandon de la premièere application. Réalisation de l'esthétique de la nouvelle application créée par Claire-Victoria.
+    Abandon de la premièere application. Réalisation de l'esthétique de la nouvelle application créée par Claire-Victoria.
    
 ---------------------------------------------------------------------------------------------------------------------------
    
  * Jeudi 18 mai
-   
+ 
       Après midi Fablab: Construction de la machine.
       (Perçage, collage...)
       
