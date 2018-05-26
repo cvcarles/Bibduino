@@ -83,32 +83,32 @@ Quelques idées:
   
   * Vendredi 2O avril
   
-      Fablab avec Claire-Victoria afin de d'apporter les modifiaction sur la machine imaginées lors de la séance du mardi précédent.
+      Fablab avec Claire-Victoria afin de d'apporter les modification sur la machine imaginées lors de la séance du mardi précédent.
       
-  ------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------
   
-  * Séance du mercredi 2 mai
+ * Séance du mercredi 2 mai
   
       Prise en main du site AppInventor, modification de l'application préalablement créée par Solène. 
       
-  -------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
   
   * Vendredi 4 mai
   
       Abandon de la premièere application. Réalisation de l'esthétique de la nouvelle application créée par Claire-Victoria.
    
-   ------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
    
-   * Jeudi 18 mai
+ * Jeudi 18 mai
    
       Après midi Fablab: Construction de la machine.
       (Perçage, collage...)
       
-   --------------------------------------------------------------------------------------------------------------------------
+ ------------------------------------------------------------------------------------------------------------------------------
    
-   * Jeudi 25 mai
+ * Jeudi 25 mai
    
       Après midi Fablab: Montage de l'électronique et assemblage avec le corps de la machine. 
       (soudage, collage......)
       
-     ------------------------------------------------------------------------------------------------------------------------
+ --------------------------------------------------------------------------------------------------------------------------------
