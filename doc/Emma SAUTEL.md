@@ -98,3 +98,17 @@ Quelques idées:
       Abandon de la premièere application. Réalisation de l'esthétique de la nouvelle application créée par Claire-Victoria.
    
    ------------------------------------------------------------------------------------------------------------------------
+   
+   * Jeudi 18 mai
+   
+      Après midi Fablab: Construction de la machine.
+      (Perçage, collage...)
+      
+   --------------------------------------------------------------------------------------------------------------------------
+   
+   * Jeudi 25 mai
+   
+      Après midi Fablab: Montage de l'électronique et assemblage avec le corps de la machine. 
+      (soudage, collage......)
+      
+     ------------------------------------------------------------------------------------------------------------------------
