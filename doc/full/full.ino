@@ -1,10 +1,8 @@
 #include <SoftwareSerial.h>
-
 SoftwareSerial mySerial(9,10);  //RX TX
 
 /** BALANCE **/
 #include <hx711.h>
-
 Hx711 scale(A2,A3);
 
 
@@ -41,59 +39,59 @@ void setup() {
   pinMode(pas_2, OUTPUT);
   pinMode(pas_3, OUTPUT);
   pinMode(pas_4, OUTPUT);
-
-
 }
   
 void loop() {
-                                             Serial.println("poids balance");
-                                             Serial.println(scale.getGram());
-                                             Serial.println("quantité désirée");
-                                             Serial.println(quantite);
+  Serial.println("poids balance");
+  Serial.println(scale.getGram());
+  Serial.println("quantité désirée");
+  Serial.println(quantite);
 
-  if (scale.getGram() > 25){ //poids min biberon 
-int    poids_bibi=scale.getGram();
+  if (scale.getGram() > 25) { //poids min biberon 
+    int poids_bibi = scale.getGram();
 
-    if (quantite!=0) {
-      allume(pin_resis);          // allumage de la résistance
- fonctionnement_pap(1); 
+    if (quantite != 0) {
+      allume(pin_resis);  // allumage de la résistance
+      fonctionnement_pap(1); 
 
-      while(scale.getGram()<poids_bibi+quantite){
+      while(scale.getGram() < poids_bibi + quantite) {
          Serial.println("Versement de la poudre en cours");
-                          Serial.println(poids_bibi);
-                                           Serial.println( scale.getGram());
-
+         Serial.println(poids_bibi);
+         Serial.println( scale.getGram());
          delay(100);
       }
- fonctionnement_pap(-1); 
+      
+      fonctionnement_pap(-1); 
 
-  while(scale.getGram()<poids_bibi+quantite+eau-10){
-                 Serial.println(poids_bibi);    
-                 Serial.println(  scale.getGram());
-
+      while( scale.getGram() < poids_bibi + quantite + eau - 10) {
+        Serial.println(poids_bibi);    
+        Serial.println(scale.getGram());
         Serial.println("Versement de l'eau en cours");
         allume(pin_pompe);
-
-        }
-    eteint(6);    //eteint pompe
-    eteint(7);    //eteint resistance
-    Serial.println("bibi terminé");
-
-    delay(5000000);
+      }
+      
+      eteint(6);    //eteint pompe
+      eteint(7);    //eteint resistance
+      Serial.println("Biberon terminé.");
+      delay(5000000);
     }
-   else{Serial.println("une erreur est survenue");
-               delay(100);
-}
-   }
+    
+    else {
+      Serial.println("Une erreur est survenue.");
+      delay(100);
+    }
+  }
 
-  else {Serial.println("Erreur: bibi non présent");
-                 delay(100);}
+  else {
+    Serial.println("Erreur: bibi non présent");
+    delay(100);
+  }
 }
+
 int balance() {
   int mesure=scale.getGram();
-
-    Serial.println(mesure);
-    return (mesure);
+  Serial.println(mesure);
+  return (mesure);
 }
 
 void fonctionnement_pap(int n) {
@@ -105,7 +103,6 @@ void fonctionnement_pap(int n) {
 void moteur_pap() { //pour la poudre 
   Serial.println("ça tourne");
   fonctionnement_pap(1); //ouverture moteur
-  
   delay(temps_ouverture); 
   fonctionnement_pap(-1); //fermeture moteur
 }
