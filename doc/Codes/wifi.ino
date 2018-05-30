@@ -1,18 +1,17 @@
 #include <SoftwareSerial.h>
 #include <ESP8266WiFi.h>
 
-const char* ssid = "Livebox-3e0c";//"AndroidAP";//"OnePlus 5 4241";//"Livebox-385a";//"Livebox-3e0c";
-const char* password ="3356931666F098A39845403845";//"cvcvcvcv"; //"solenesolene";//"14A3447FF291DACACD95F24E94"; //"3356931666F098A39845403845";
+const char* ssid ="iPhone de Emma"; //"Livebox-3e0c";//"AndroidAP";//"OnePlus 5 4241";//"Livebox-385a";//"Livebox-3e0c";
+const char* password ="emmadamour";//"3356931666F098A39845403845";//"cvcvcvcv"; //"solenesolene";//"14A3447FF291DACACD95F24E94"; //"3356931666F098A39845403845";
  
 WiFiServer server(80);
-SoftwareSerial mySerial(1,3);  //RX TX
+SoftwareSerial mySerial(13,15);  //RX TX
  
 void setup() {
-  mySerial.begin(9600);
+  mySerial.begin(4800);
   Serial.begin(9600);
 
   delay(10);
- 
   pinMode(13, OUTPUT);
  
   // Connect to WiFi network
@@ -62,7 +61,14 @@ void loop() {
 
 
 String poudre1="";
-poudre1=request.substring(5,7);
+if (request.length()==18){
+  poudre1=request.substring(5,9);
+}
+else if(request.length()==17){
+  poudre1=request.substring(5,8);
+}
+else{
+  poudre1=request.substring(5,7);}
 int poudre=poudre1.toInt();
 
 if (poudre>1000){
@@ -70,17 +76,19 @@ if (poudre>1000){
   int temp2=temp+250;
   poudre=temp2/30;
 }
-      
-mySerial.print(poudre);
-
-   
 int eau=poudre*6;
+ int temp=poudre;
 
-
+while(true){
+if (poudre=temp)
+  {mySerial.write(poudre);
+  }
+else {temp=poudre;
+  mySerial.write(poudre);}
   // Return the response
-  client.println("HTTP/1.1 200 OK");
-  client.println("Content-Type: text/html");
-  client.println(""); //  do not forget this one
+//client.println("HTTP/1.1 200 OK");
+ // client.println("Content-Type: text/html");
+ // client.println(""); //  do not forget this one
   client.println("<!DOCTYPE HTML>");
   client.println("<html>");
   client.println("<body>");
@@ -101,10 +109,13 @@ int eau=poudre*6;
   client.println("<br><br>");
    
   client.println("</body></html>");
+}
+
+  
  
   delay(1);
   Serial.println("Client disonnected");
   Serial.println("");
- 
+
 }
  
