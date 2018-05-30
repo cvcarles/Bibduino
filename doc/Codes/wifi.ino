@@ -1,17 +1,19 @@
+#include <SoftwareSerial.h>
 #include <ESP8266WiFi.h>
+
+const char* ssid = "Livebox-3e0c";//"AndroidAP";//"OnePlus 5 4241";//"Livebox-385a";//"Livebox-3e0c";
+const char* password ="3356931666F098A39845403845";//"cvcvcvcv"; //"solenesolene";//"14A3447FF291DACACD95F24E94"; //"3356931666F098A39845403845";
  
-const char* ssid = "Livebox-3e0c";
-const char* password = "3356931666F098A39845403845";
- 
-int ledPin = 13; // GPIO13
 WiFiServer server(80);
+SoftwareSerial mySerial(1,3);  //RX TX
  
 void setup() {
-  Serial.begin(115200);
+  mySerial.begin(9600);
+  Serial.begin(9600);
+
   delay(10);
  
-  pinMode(ledPin, OUTPUT);
-  digitalWrite(ledPin, LOW);
+  pinMode(13, OUTPUT);
  
   // Connect to WiFi network
   Serial.println();
@@ -57,40 +59,48 @@ void loop() {
   String request = client.readStringUntil('\r');
   Serial.println(request);
   client.flush();
- 
-  // Match the request
- 
-  int value = LOW;
-  if (request.indexOf("/LED=ON") != -1)  {
-    digitalWrite(ledPin, HIGH);
-    value = HIGH;
-  }
-  if (request.indexOf("/LED=OFF") != -1)  {
-    digitalWrite(ledPin, LOW);
-    value = LOW;
-  }
- 
-// Set ledPin according to the request
-//digitalWrite(ledPin, value);
- 
+
+
+String poudre1="";
+poudre1=request.substring(5,7);
+int poudre=poudre1.toInt();
+
+if (poudre>1000){
+  int temp=poudre/10;
+  int temp2=temp+250;
+  poudre=temp2/30;
+}
+      
+mySerial.print(poudre);
+
+   
+int eau=poudre*6;
+
+
   // Return the response
   client.println("HTTP/1.1 200 OK");
   client.println("Content-Type: text/html");
   client.println(""); //  do not forget this one
   client.println("<!DOCTYPE HTML>");
   client.println("<html>");
+  client.println("<body>");
+  client.println("<style>");
+  client.println("body {background-color: rgb(246,241,199)} </style>");
+
+
  
-  client.print("Led pin is now.....: ");
+  client.print("<h2>Préparation du bibi suivant:</h2><br>");
+  client.print("<strong>Quantité de lait en poudre: ");
+  client.print(poudre);
+  client.print("g<br><br>");
+  client.print("Volume d'eau: ");
+  client.print(eau);
+  client.print("ml</strong>");
  
-  if(value == HIGH) {
-    client.print("On");
-  } else {
-    client.print("Off");
-  }
+
   client.println("<br><br>");
-  client.println("<a href=\"/LED=ON\"\"><button>Turn On </button></a>");
-  client.println("<a href=\"/LED=OFF\"\"><button>Turn Off </button></a><br />");  
-  client.println("</html>");
+   
+  client.println("</body></html>");
  
   delay(1);
   Serial.println("Client disonnected");
