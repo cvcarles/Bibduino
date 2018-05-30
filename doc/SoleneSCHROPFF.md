@@ -118,3 +118,12 @@ Séance du 2 mai 2018
 - mise en place du programme Arduino
 
 - ajout d'une puce [ULN2803](https://wiki.mchobby.be/index.php?title=ULN2803-Sch%C3%A9ma) pour pouvoir contrôler la résistance chauffante
+
+Séances personnelles (suite & fin)
+----
+
+- montages au FabLab
+
+- rédaction du rapport et préparation de la présentation
+
+- mise à jour et finition des différents codes sur le Git
