@@ -165,3 +165,29 @@ algorithme général:
  ## Mercredi 2 mai
  
  changement de rôle, je reprends l'application depuis le début. J'ai réussi à lié l'application au module wifi: la led peut s'allumer et s'éteindre via l'application
+
+ ----------------------------------
+ ## Vendredi 4/ samedi 5 mai
+ 
+ Reception wifi OK
+ Codage de l'application suite et fin
+ 
+  ----------------------------------
+ ## Jeudi 18 mai
+ 
+ Après-midi au fablab (perçage de la pièce imprimée, collage du socle avec la macine initiale)
+ 
+  ----------------------------------
+ ## Jeudi 25 mai
+ 
+ Après-midi au fablab soudage des toutes les composantes électroniques ensemble de manière à ne pas avoir de plaque à placer dans notre machine (faute de place)
+ 
+ ----------------------------------
+ ## Vendredi 26 mai
+ 
+Finitions de la machine au fablab
+
+ ----------------------------------
+ ## Mercredi 30 mai
+ 
+ SOS: l'ULN2803 a cramé ce qui a engendré des problèmes plus ou moins résolus (la pompe ne fonctionne plus, essai avec un relai mais le moteur pas à pas n'avait plus assez de puissance pour fonctionner. Tantpis pas de pompe pour la démo du lendemain
