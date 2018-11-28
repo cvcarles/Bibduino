@@ -6,4 +6,4 @@ Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Po
 
 Le Bibduino est une machine préparant des biberons. Le consommateur choisit la dose de lait qu'il souhaite et lance sa commande depuis son smartphone. Le Bibduino prépare le biberon et affiche un message lorsque ce dernier est prêt.
 
-![Bibduino](https://raw.githubusercontent.com/cvcarles/Bibduino/a272be50a49e2242573f766b865ce36e2003901c/doc/sch%C3%A9ma%20avec%20tous%20les%20composants.jpg)
+[Bibduino](https://raw.githubusercontent.com/cvcarles/Bibduino/a272be50a49e2242573f766b865ce36e2003901c/doc/sch%C3%A9ma%20avec%20tous%20les%20composants.jpg)
